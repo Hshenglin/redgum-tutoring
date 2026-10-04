@@ -66,7 +66,7 @@ app/
   templates/       Jinja2 templates
   static/style.css single stylesheet (no CDN)
 tests/             pytest suite
-docs/              design spec, implementation plan, handover, Jira backlog
+docs/              design spec, handover, Jira backlog
 ```
 
 ## Configuration
